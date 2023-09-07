@@ -1,0 +1,6 @@
+name: Service
+host: 0.0.0.0
+port: 29000
+functions:
+  - name: chatbot
+  - name: sink

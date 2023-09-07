@@ -1,0 +1,10 @@
+accelerate
+bitsandbytes
+numpy
+protobuf
+scipy
+sentencepiece
+tokenizers
+transformers
+torch
+xformers
