@@ -2,7 +2,7 @@ module github.com/wujunzhuo/yomo-chatbot
 
 go 1.20
 
-require github.com/yomorun/yomo v1.15.0
+require github.com/yomorun/yomo v1.15.1
 
 require (
 	github.com/caarlos0/env/v6 v6.10.1 // indirect
